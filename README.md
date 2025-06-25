@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=EDF73F&width=435&lines=Welcome+to+my+GitHub+profile;I'm+a+Frontend+Developer;I'm+a+MERN+Stack+Enthusiast;I'm+a+Competitive+Programmer;I'm+a+Curious+Coder+%26+Fixer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=27&duration=2000&pause=1000&color=EDF73F&width=435&lines=Welcome+to+my+GitHub+profile;I'm+a+Frontend+Developer;I'm+a+MERN+Stack+Enthusiast;I'm+a+Competitive+Programmer;I'm+a+Curious+Coder+%26+Fixer" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 
