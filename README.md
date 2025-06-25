@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/d46LJNsn/Black-and-Yellow-Web-Developer-Linked-In-Banner.png"/>
+  <img src="https://i.ibb.co/dx6Ny1r/1750847730824.png"/>
 </div>
 
 <h1 align="center">👋 Hello, I'm Dipra Chowdhury</h1>
