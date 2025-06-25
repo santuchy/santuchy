@@ -10,9 +10,6 @@
 </div>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/K8eVFrnX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/666TheDeceiver666) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santu-chowdhury-126279143) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santuchowdhuryofficial@gmail.com) 
-
 ## 💻 Tech Stack
 
 <p align="center">
