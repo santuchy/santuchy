@@ -70,5 +70,5 @@
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santuchy&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=santuchy&style=for-the-badge&color=yellow" />
 </p>
