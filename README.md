@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=27&duration=2000&pause=1000&color=EDF73F&width=435&lines=%C2%A0%C2%A0%C2%A0%C2%A0Welcome+to+my+GitHub+profile;%C2%A0%C2%A0%C2%A0%C2%A0I'm+a+Frontend+Developer;%C2%A0%C2%A0%C2%A0%C2%A0I'm+a+MERN+Stack+Enthusiast;%C2%A0%C2%A0%C2%A0%C2%A0I'm+a+Competitive+Programmer;%C2%A0%C2%A0%C2%A0%C2%A0I'm+a+Curious+Coder+%26+Fixer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=27&duration=2000&pause=1000&color=EDF73F&width=435&lines=%C2%A0%C2%A0%C2%A0%C2%A0Welcome+to+my+GitHub+profile;%C2%A0%C2%A0%C2%A0%C2%A0I'm+a+Frontend+Developer;%C2%A0%C2%A0%C2%A0%C2%A0I'm+a+MERN+Stack+Enthusiast;%C2%A0%C2%A0%C2%A0%C2%A0I+solve+real-world+problems;%C2%A0%C2%A0%C2%A0%C2%A0I'm+a+Curious+Coder+%26+Fixer" alt="Typing SVG" />
   </a>
 </p>
+
 
 ## 👨‍💻 About Me
 
