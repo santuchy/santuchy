@@ -113,5 +113,5 @@ I'm a frontend-focused developer skilled in **HTML5**, **CSS3**, **Tailwind CSS*
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santuchy&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=santuchy&style=for-the-badge&color=black" />
 </p>
