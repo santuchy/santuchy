@@ -22,6 +22,7 @@ I'm a frontend-focused developer skilled in **HTML5**, **CSS3**, **Tailwind CSS*
 - 🎯 Mastering **Frontend Development** practices  
 - 💡 Focusing on creating **user-friendly interfaces**  
 - 📚 Learning advanced concepts in **React** and **Next.js**
+- 📫 How to reach me **santuchowdhuryofficial@gmail.com**
 
 
 # 💻 Tech Stack:
