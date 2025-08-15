@@ -66,7 +66,7 @@ I'm a frontend-focused developer skilled in **HTML5**, **CSS3**, **Tailwind CSS*
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://facebook.com/666TheDeceiver666" target="_blank">
+  <a href="https://www.facebook.com/diprachowdhurydev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:santuchowdhuryofficial@gmail.com" target="_blank">
