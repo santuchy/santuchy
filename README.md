@@ -72,7 +72,7 @@ I'm a frontend-focused developer skilled in **HTML5**, **CSS3**, **Tailwind CSS*
   <a href="mailto:santuchowdhuryofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/santu-chowdhury-126279143" target="_blank">
+  <a href="https://www.linkedin.com/in/dipra-chowdhury/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.gg/K8eVFrnX" target="_blank">
