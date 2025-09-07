@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hello, I'm Dipra Chowdhury</h1>
-<h3 align="center">🚀Frontend Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀Mern Stack Developer | Full-Stack Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
