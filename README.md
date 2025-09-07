@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a frontend-focused developer skilled in **HTML5**, **CSS3**, **Tailwind CSS**, **JavaScript (ES6+)**, and **React**. I'm currently diving deep into the **MERN stack**, with strong experience in **MongoDB**, **Express.js**, and **Axios**, building scalable and responsive full-stack web applications.
+I'm a frontend-focused MERN Stack developer skilled in **HTML5**, **CSS3**, **Tailwind CSS**, **JavaScript (ES6+)**, and **React**. I'm currently diving deep into the **MERN stack**, with strong experience in **MongoDB**, **Express.js**, and **Axios**, building scalable and responsive full-stack web applications.
 
 ### 🔍 Currently I'm:
 - 🚀 Exploring **Next.js** and the latest web technologies  
@@ -22,7 +22,7 @@ I'm a frontend-focused developer skilled in **HTML5**, **CSS3**, **Tailwind CSS*
 - 🎯 Mastering **Frontend Development** practices  
 - 💡 Focusing on creating **user-friendly interfaces**  
 - 📚 Learning advanced concepts in **React** and **Next.js**
-- 📫 How to reach me: **santuchowdhuryofficial@gmail.com** | 📞 **+880 1840-577851**
+- 📫 How to reach me: **diprachowdhurybd@gmail.com** | 📞 **+880 1840-577851**
 
 
 # 💻 Tech Stack:
