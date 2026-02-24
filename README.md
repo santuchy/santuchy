@@ -69,7 +69,7 @@ I'm a frontend-focused MERN Stack developer skilled in **HTML5**, **CSS3**, **Ta
   <a href="https://www.facebook.com/diprachowdhurydev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:santuchowdhuryofficial@gmail.com" target="_blank">
+  <a href="mailto:diprachowdhurybd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dipra-chowdhury/" target="_blank">
